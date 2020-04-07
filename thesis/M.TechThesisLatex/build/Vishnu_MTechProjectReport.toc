@@ -1,0 +1,63 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Objective}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}DTMC Representation Of System Specification}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4}Organization of the thesis}{4}{section.1.4}
+\contentsline {section}{\numberline {1.5}Software and Hardware Platform}{4}{section.1.5}
+\contentsline {chapter}{\numberline {2}Literature Survey}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}MINLP Problem}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}Reliability Allocation Techniques}{6}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Quantifying The Cost Function}{6}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}Summary}{7}{section.2.4}
+\contentsline {chapter}{\numberline {3}Optimization of Software Reliability Using ILP Solvers}{8}{chapter.3}
+\contentsline {section}{\numberline {3.1}MINLP Problem}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}System Specification to DTMC Representation}{9}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Modelling statements to DTMC}{9}{subsection.3.2.1}
+\contentsline {subsubsection}{Expression Statement}{10}{section*.5}
+\contentsline {subsubsection}{Conditional Statement}{10}{section*.6}
+\contentsline {subsubsection}{Loop Statement}{10}{section*.7}
+\contentsline {subsection}{\numberline {3.2.2}Modelling System Specification to DTMC}{11}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}System Reliability Calculation Using DTMC Representation}{12}{section.3.3}
+\contentsline {section}{\numberline {3.4}Optimization Of System Reliability As MINLP}{12}{section.3.4}
+\contentsline {section}{\numberline {3.5}Problem Formulation}{13}{section.3.5}
+\contentsline {section}{\numberline {3.6}Optimization Sequence}{14}{section.3.6}
+\contentsline {section}{\numberline {3.7}Various Approaches}{15}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}BONMIN (Basic Open-source Nonlinear Mixed INteger programming)}{16}{subsection.3.7.1}
+\contentsline {subsection}{\numberline {3.7.2}SCIP (Solving Constraint Integer Programs)}{16}{subsection.3.7.2}
+\contentsline {section}{\numberline {3.8}Implementation}{17}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}Example Problem}{17}{subsection.3.8.1}
+\contentsline {section}{\numberline {3.9}Optimization Using BONMIN Algorithm}{20}{section.3.9}
+\contentsline {section}{\numberline {3.10}Optimization Using SCIP Algorithm}{20}{section.3.10}
+\contentsline {section}{\numberline {3.11}Optimization Using GA Algorithm}{21}{section.3.11}
+\contentsline {section}{\numberline {3.12}Comparison Of Results}{23}{section.3.12}
+\contentsline {section}{\numberline {3.13}Conclusion}{25}{section.3.13}
+\contentsline {chapter}{\numberline {4}Optimization of Software Reliability Using Component Ranking \& Cost Rate Function Approach}{26}{chapter.4}
+\contentsline {section}{\numberline {4.1}Component Ranking Approach}{27}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Example Problem}{27}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Ranking of Components}{28}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Optimization Algorithm Using Component Ranking}{28}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Cost Rate Function Approach}{30}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Quantifying the Cost Rate Function}{31}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}The Feasibility Value, $f$}{31}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Relaxation of the Feasibility}{32}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Optimization Algorithm Using Cost Function Approach}{32}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Results \& Discussion}{34}{section.4.3}
+\contentsline {section}{\numberline {4.4}Conclusion}{36}{section.4.4}
+\contentsline {chapter}{\numberline {5}Optimization Based On Reliability Degradation Over Time}{37}{chapter.5}
+\contentsline {section}{\numberline {5.1}Weibull Distribution}{38}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Weibull Reliability}{39}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Characteristics of the Weibull Distribution}{40}{subsection.5.1.2}
+\contentsline {subsubsection}{Weibull Slope Parameter, $\beta $}{40}{section*.8}
+\contentsline {subsubsection}{Weibull Scale Parameter, $\eta $}{41}{section*.9}
+\contentsline {subsubsection}{Weibull Location Parameter, $\gamma $}{41}{section*.10}
+\contentsline {subsection}{\numberline {5.1.3}Problem Definition and Formulation using Weibull Distribution}{42}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Random Allocation of Weibull Parameters}{43}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Optimization Procedure}{45}{subsection.5.1.5}
+\contentsline {subsection}{\numberline {5.1.6}Results}{45}{subsection.5.1.6}
+\contentsline {subsection}{\numberline {5.1.7}Reliability Optimization for Set Of Target Reliabilities}{45}{subsection.5.1.7}
+\contentsline {section}{\numberline {5.2}Reliability Optimization With Replenishment Of Components}{46}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Problem Description}{46}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Solution Methodology}{48}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Replenishment Algorithm}{50}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Results and Conclusion}{51}{subsection.5.2.4}

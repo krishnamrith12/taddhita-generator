@@ -1,0 +1,24 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces DTMC Model}}{3}{figure.1.1}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces DTMC representation of the statements}}{10}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Graph representation of software model}}{11}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Optimization Methodology}}{15}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Optimization Approaches }}{16}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces MATLAB program for BONMIN Solver}}{19}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Calling the Solver in MATLAB}}{19}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Output of BONMIN Solver}}{20}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Output of SCIP Solver}}{21}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Matlab GA Solver Window}}{22}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Output of Matlab GA Solver}}{23}{figure.3.10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces comparision of Component Ranking and Branch\&Bound}}{35}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces comparision of CostRate Function and Branch\&Bound}}{35}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces comparision of Three Algorithms}}{36}{figure.4.3}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Reliability Curve}}{37}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Slope parameter characteristics}}{40}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Scale parameter characteristics [12]}}{41}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Location parameter characteristics [12]}}{42}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces system reliability at different points}}{47}{figure.5.5}
